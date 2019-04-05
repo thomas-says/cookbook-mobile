@@ -33,3 +33,5 @@ ou :
 ```
 expo start
 ```
+
+En démarrant le serveur un QR code doit être généré. Grâce à l'application mobile il est possible de le scanner afin de compiler l'application
